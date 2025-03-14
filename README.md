@@ -21,7 +21,7 @@ I'm a Game Developer from the UK specializing in desktop XR development in Unity
 ![Cubist's Lang Stats  ](https://github-readme-stats-git-master-thecubists-projects.vercel.app/api/top-langs/?username=thecubist&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # Testing
-<picture>
+<picture alt="Cubist's GitHub Stats">
   <!-- Dark theme option -->
   <source
     srcset="https://github-readme-stats-git-master-thecubists-projects.vercel.app/api?username=thecubist&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
@@ -34,4 +34,12 @@ I'm a Game Developer from the UK specializing in desktop XR development in Unity
   />
   <!-- Fallback -->
   <img src="https://github-readme-stats-git-master-thecubists-projects.vercel.app/api?username=thecubist&show_icons=true&include_all_commits=true&count_private=true" />
+</picture>
+
+<picture> 
+  <!-- dark theme -->
+    <source srcset="https://github-readme-stats-git-master-thecubists-projects.vercel.app/api/top-langs/?username=thecubist&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-readme-stats-git-master-thecubists-projects.vercel.app/api/top-langs/?username=thecubist&hide_border=false&include_all_commits=true&count_private=true&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no preference)" />
+  <!-- Fallback -->
+  <img src="https://github-readme-stats-git-master-thecubists-projects.vercel.app/api/top-langs/?username=thecubist&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </picture>
